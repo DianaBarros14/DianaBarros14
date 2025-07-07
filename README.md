@@ -1,6 +1,6 @@
 ## Diana Barros 
 
-Habilidades e Conhecimentos
+## Habilidades e Conhecimentos
 <div style="display: inline_block">
   
   <img align="center" alt="Diana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -10,10 +10,8 @@ Habilidades e Conhecimentos
   <img align="center" alt="Diana-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Diana-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Diana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  
+   
 </div>
-
 
 ##
 Desenvolvedora Web
