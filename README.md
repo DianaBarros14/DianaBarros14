@@ -1,7 +1,7 @@
 ## Diana Barros 
 
 Habilidades e Conhecimentos
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
   <img align="center" alt="Diana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Diana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,9 +14,9 @@ Habilidades e Conhecimentos
   
 </div>
 
-Desenvolvedora Web
-##
 
+##
+Desenvolvedora Web
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DianaBarros14&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DianaBarros14&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
