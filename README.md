@@ -19,19 +19,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="right">
-  <a href="http://www.linkedin.com/in/diana-barros-651369222" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/diiianna.b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-###
  
 <div> 
   <a href="https://www.linkedin.com/in/diana-barros-651369222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
