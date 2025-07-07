@@ -7,6 +7,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 ##
  
 <div align="left">
@@ -14,9 +15,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DianaBarros14&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DianaBarros14&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="140" alt="activity-graph graph"  />
 </div>
+
 ##
  
 <div> 
   <a href="https://www.linkedin.com/in/diana-barros-651369222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
 ##
