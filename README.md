@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php logo"  />
-  <img width="15" />
+  <img width="1" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
