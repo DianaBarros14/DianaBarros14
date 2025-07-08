@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DianaBarros14&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
   
   ##
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DianaBarros14&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="140" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DianaBarros14&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ##
